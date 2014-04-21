@@ -1,5 +1,4 @@
 
-
 package faktorial;
 
 
@@ -30,3 +29,4 @@ public class Faktorial {
         }
     }
 }
+
